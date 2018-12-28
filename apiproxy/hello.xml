@@ -6,9 +6,9 @@
     <CreatedBy>rduran@haddonhillgroup.com</CreatedBy>
     <Description></Description>
     <DisplayName>Hello-World</DisplayName>
-    <LastModifiedAt>1546035471034</LastModifiedAt>
+    <LastModifiedAt>1546036164341</LastModifiedAt>
     <LastModifiedBy>rduran@haddonhillgroup.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:3de5a1c6947514f44fa4257d8334da50775314fb7ad8089d6699a75cdf18b87057ef356118a3963cdbcbf7ffe8ca02b05a8f62ebe7010f8d2d558b50c4254d25</ManifestVersion>
+    <ManifestVersion>SHA-512:70f68fa4436ed8a4f581be713400c6f7ef8e45f7cea37e8bd0af75f04b05ab2c00530df3f1ddce05256b87c90515dce1251e87f84008def918729fc14d91e976</ManifestVersion>
     <Policies>
         <Policy>Raise-Fault-1</Policy>
         <Policy>SOAP-Message-Validation-1</Policy>
