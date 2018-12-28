@@ -7,7 +7,7 @@
         <VersionInfo resourceName="verify-api-key" version="SHA-512:baef0665af4ec6cd4acb8f7c01740c3804079d5f068f6370dc28c4b0354fb54045fdd9d631558f784ec99c1e89a3e968fa1c1054b41ad11ce6223c9e17201dcf"/>
     </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:388d27824b65548c421c758e06d9539f19420aa0aaf8624e74df552e1ef1cec6ab02cf6c5985c96cc609d6c4d9dceddb55c5b71a8bf75153928c38db34899329"/>
+        <VersionInfo resourceName="default" version="SHA-512:29c4f5ee391ace7837dc163ba1b6e15d508c3139cf38686aacb7a908016a5d5cda94e5f69ff4cd64cc7ca061ce99ff889f889ce213ed98fda8903618686a354f"/>
     </ProxyEndpoints>
     <Resources>
         <VersionInfo resourceName="openapi://association.json" version="SHA-512:67d2ae14ba650633615784fd4a814836c0ea1d85dcd1d9e21c8afbea3c5b59269b4cc114d2600cd1eed240781c7f6bbc4cca556544746810d4e9492be5908c98"/>
