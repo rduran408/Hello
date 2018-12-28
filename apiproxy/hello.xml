@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="hello">
+    <Basepaths>/hello-world</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1546033387490</CreatedAt>
+    <CreatedBy>rduran@haddonhillgroup.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Hello-World</DisplayName>
+    <LastModifiedAt>1546033549783</LastModifiedAt>
+    <LastModifiedBy>rduran@haddonhillgroup.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:1b0d276a4ea406deee136b302f65aed9d3a657999508ac5a5b0653a266f37931b83b0a4e57da438edc5b486e617389ee7da56e2c5ac1c816bbe344f67cfae924</ManifestVersion>
+    <Policies>
+        <Policy>Raise-Fault-1</Policy>
+        <Policy>SOAP-Message-Validation-1</Policy>
+        <Policy>remove-query-param-apikey</Policy>
+        <Policy>verify-api-key</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>wsdl://SOAP-Message-Validation-1.wsdl</Resource>
+        <Resource>openapi://association.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+        <TargetEndpoint>foo</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
