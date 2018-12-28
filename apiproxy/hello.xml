@@ -2,13 +2,13 @@
 <APIProxy revision="1" name="hello">
     <Basepaths>/hello-world</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1546034702133</CreatedAt>
+    <CreatedAt>1546035430699</CreatedAt>
     <CreatedBy>rduran@haddonhillgroup.com</CreatedBy>
     <Description></Description>
     <DisplayName>Hello-World</DisplayName>
-    <LastModifiedAt>1546034750463</LastModifiedAt>
+    <LastModifiedAt>1546035471034</LastModifiedAt>
     <LastModifiedBy>rduran@haddonhillgroup.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:eac8e7358159e32202b7ca752c0a23a29b34e2b400e823b6d21e391273be689a09a5f2b6122e6a87c0f286e714387c7d6f95c8786a039dc471414f08a3aad437</ManifestVersion>
+    <ManifestVersion>SHA-512:3de5a1c6947514f44fa4257d8334da50775314fb7ad8089d6699a75cdf18b87057ef356118a3963cdbcbf7ffe8ca02b05a8f62ebe7010f8d2d558b50c4254d25</ManifestVersion>
     <Policies>
         <Policy>Raise-Fault-1</Policy>
         <Policy>SOAP-Message-Validation-1</Policy>
